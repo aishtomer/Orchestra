@@ -4,7 +4,7 @@
     <img src="https://bongo.cat/meta/thumbnail.png">
   </a>  
 </p>
-Hit the bongos like Bongo Cat! https://bongo.cat
+Hit the bongos like Bongo Cat! 
 
 ## Built with
 - [lowLag.js](https://lowlag.alienbill.com/) - To play lag free sounds on a wide range of devices
