@@ -1,8 +1,8 @@
 # Orchestra
 <p align="center">
-  <a href="https://aishtomer.github.io/Orchestra/">
+  <a href="https://bongo.cat/">
     <img src="https://bongo.cat/meta/thumbnail.png">
-    Try Online
+    <p>Try Online</p>
   </a> 
 </p>
 
